@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ducdungtranquang/Booking-care/static/css/main.fae2fd74.css",
-    "main.js": "/ducdungtranquang/Booking-care/static/js/main.f17b7a30.js",
-    "static/js/787.86592410.chunk.js": "/ducdungtranquang/Booking-care/static/js/787.86592410.chunk.js",
-    "index.html": "/ducdungtranquang/Booking-care/index.html",
-    "main.fae2fd74.css.map": "/ducdungtranquang/Booking-care/static/css/main.fae2fd74.css.map",
-    "main.f17b7a30.js.map": "/ducdungtranquang/Booking-care/static/js/main.f17b7a30.js.map",
-    "787.86592410.chunk.js.map": "/ducdungtranquang/Booking-care/static/js/787.86592410.chunk.js.map"
+    "main.css": "/Booking-care/static/css/main.fae2fd74.css",
+    "main.js": "/Booking-care/static/js/main.5a49c060.js",
+    "static/js/787.86592410.chunk.js": "/Booking-care/static/js/787.86592410.chunk.js",
+    "index.html": "/Booking-care/index.html",
+    "main.fae2fd74.css.map": "/Booking-care/static/css/main.fae2fd74.css.map",
+    "main.5a49c060.js.map": "/Booking-care/static/js/main.5a49c060.js.map",
+    "787.86592410.chunk.js.map": "/Booking-care/static/js/787.86592410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fae2fd74.css",
-    "static/js/main.f17b7a30.js"
+    "static/js/main.5a49c060.js"
   ]
 }
